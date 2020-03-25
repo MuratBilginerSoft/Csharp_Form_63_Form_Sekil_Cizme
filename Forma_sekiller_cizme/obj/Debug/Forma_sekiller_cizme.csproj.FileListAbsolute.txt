@@ -1,0 +1,49 @@
+D:\ornekler\C#_net\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\C#_net\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.Form1.resources
+D:\ornekler\C#_net\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.Properties.Resources.resources
+D:\ornekler\C#_net\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.csproj.GenerateResource.Cache
+D:\ornekler\C#_net\Forma_sekiller_cizme\Forma_sekiller_cizme\bin\Debug\Forma_sekiller_cizme.exe
+D:\ornekler\C#_net\Forma_sekiller_cizme\Forma_sekiller_cizme\bin\Debug\Forma_sekiller_cizme.pdb
+D:\ornekler\C#_net\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.exe
+D:\ornekler\C#_net\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.pdb
+E:\Users\MURATBILGINER\Downloads\Compressed\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.exe
+E:\Users\MURATBILGINER\Downloads\Compressed\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.pdb
+E:\Users\MURATBILGINER\Downloads\Compressed\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\bin\Debug\Forma_sekiller_cizme.exe
+E:\Users\MURATBILGINER\Downloads\Compressed\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\bin\Debug\Forma_sekiller_cizme.pdb
+E:\Users\MURATBILGINER\Downloads\Compressed\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.Form1.resources
+E:\Users\MURATBILGINER\Downloads\Compressed\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.Properties.Resources.resources
+E:\Users\MURATBILGINER\Downloads\Compressed\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.csproj.GenerateResource.Cache
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# ÖRNEKLER\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.exe
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# ÖRNEKLER\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.pdb
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# ÖRNEKLER\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\bin\Debug\Forma_sekiller_cizme.exe
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# ÖRNEKLER\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\bin\Debug\Forma_sekiller_cizme.pdb
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# ÖRNEKLER\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.Form1.resources
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# ÖRNEKLER\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.Properties.Resources.resources
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# ÖRNEKLER\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.csproj.GenerateResource.Cache
+I:\NCFKR\1 C#\5 C# ÖRNEKLER\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.exe
+I:\NCFKR\1 C#\5 C# ÖRNEKLER\forma_sekiller_cizme1\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\4 FORMA ŞEKİLLER ÇİZME\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\4 FORMA ŞEKİLLER ÇİZME\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\4 FORMA ŞEKİLLER ÇİZME\Forma_sekiller_cizme\Forma_sekiller_cizme\bin\Debug\Forma_sekiller_cizme.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\4 FORMA ŞEKİLLER ÇİZME\Forma_sekiller_cizme\Forma_sekiller_cizme\bin\Debug\Forma_sekiller_cizme.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\4 FORMA ŞEKİLLER ÇİZME\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.Form1.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\4 FORMA ŞEKİLLER ÇİZME\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.Properties.Resources.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\4 FORMA ŞEKİLLER ÇİZME\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.csproj.GenerateResource.Cache
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\4 FORMA ŞEKİLLER ÇİZME\Forma_sekiller_cizme\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\04 - Form Projeleri\28 Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.exe
+F:\04 - Yazılım\04 - Form Projeleri\28 Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.pdb
+F:\04 - Yazılım\04 - Form Projeleri\28 Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\bin\Debug\Forma_sekiller_cizme.exe
+F:\04 - Yazılım\04 - Form Projeleri\28 Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\bin\Debug\Forma_sekiller_cizme.pdb
+F:\04 - Yazılım\04 - Form Projeleri\28 Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\04 - Form Projeleri\28 Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.Form1.resources
+F:\04 - Yazılım\04 - Form Projeleri\28 Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.Properties.Resources.resources
+F:\04 - Yazılım\04 - Form Projeleri\28 Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.csproj.GenerateResource.Cache
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 33 - Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.csprojAssemblyReference.cache
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 33 - Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.Form1.resources
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 33 - Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.Properties.Resources.resources
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 33 - Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.csproj.GenerateResource.cache
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 33 - Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.csproj.CoreCompileInputs.cache
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 33 - Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.exe
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 33 - Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\obj\Debug\Forma_sekiller_cizme.pdb
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 33 - Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\bin\Debug\Forma_sekiller_cizme.exe
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 33 - Geometrik Şekil Çizme V1.0\Forma_sekiller_cizme\bin\Debug\Forma_sekiller_cizme.pdb
